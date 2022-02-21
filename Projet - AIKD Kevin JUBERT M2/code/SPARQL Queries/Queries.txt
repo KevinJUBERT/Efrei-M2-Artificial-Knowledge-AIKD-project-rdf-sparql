@@ -1,0 +1,102 @@
+========================================================
+QueryArticlesByDomain
+========================================================
+
+SELECT ?Date ?Domain ?Topic ?URL
+WHERE{     
+                ?url_id <urn:ex:domain> ?Domain .
+    			?url_id <urn:ex:topic> ?Topic .
+    			?url_id <urn:ex:date> ?Date .
+    			?url_id <urn:ex:urlarticle>   ?URL . 
+    
+   
+
+ }
+
+ORDER BY DESC(?Date)
+
+=======================================================
+QueryArticlesAuthorsList
+=======================================================
+SELECT DISTINCT ?author_name ?author_lastname  where {
+                ?url_id <urn:ex:id>        ?id_article .
+     			?url_id <urn:ex:date>        ?date .
+                ?url_id <urn:ex:writeBy>/<urn:ex:author:name> ?author_name .
+                ?url_id <urn:ex:writeBy>/<urn:ex:author:lastname> ?author_lastname .
+    
+}
+
+=======================================================
+QueryArticlesAfter01December
+=======================================================
+SELECT ?Date ?Domain ?Title ?url_article
+WHERE {
+    			?url_id <urn:ex:domain> ?Domain .
+    			?url_id <urn:ex:title>  ?Title .
+                ?url_id <urn:ex:date>   ?Date .
+                ?url_id <urn:ex:urlarticle>   ?url_article . 
+    			
+    FILTER(?Date > "2021-12-01")
+
+}
+
+
+=======================================================
+Variability
+=======================================================
+SELECT
+	   (COUNT(distinct (?Id)) as ?Number_of_articles) 
+	   (COUNT(distinct (?Domain)) as ?Nomber_of_domains) 
+	   ((?Nomber_of_domains/?Number_of_articles)*100 as ?pourcentage) 
+WHERE{     
+                ?url_id <urn:ex:id> ?Id .
+    			?url_id <urn:ex:domain> ?Domain .
+    			?url_id <urn:ex:writeBy>/<urn:ex:author:fullname> ?author_lastname .
+ }GROUP BY ?author_name
+
+=======================================================
+Variability 2
+=======================================================
+SELECT 	?Domain
+		(COUNT(distinct (?Id)) as ?Number_of_articles)
+		(COUNT(distinct (?Id))*100/50 as ?Pourcentage)
+
+WHERE{     
+    			?url_id <urn:ex:id> ?Id .
+    			?url_id <urn:ex:domain> ?Domain .
+    			?url_id <urn:ex:writeBy>/<urn:ex:author:fullname> ?Author_name.
+    
+ }GROUP BY ?Domain
+ORDER BY DESC(?Pourcentage) ?Domain
+
+=======================================================
+Query20LatestArticles
+=======================================================
+SELECT ?Domain ?Title ?Date ?url_article   
+WHERE 
+{ 
+                ?url_id <urn:ex:domain> ?Domain .
+                ?url_id <urn:ex:title>  ?Title .
+                ?url_id <urn:ex:date>   ?Date .
+                ?url_id <urn:ex:urlarticle>   ?url_article . 
+}
+ORDER BY DESC(?Date)
+LIMIT 20
+
+=======================================================
+QueryListDomain
+=======================================================
+SELECT DISTINCT ?Domain  where {     
+                ?url_id <urn:ex:domain> ?Domain .
+ }
+=======================================================
+QuerySourceList
+=======================================================
+
+SELECT DISTINCT ?author_name ?author_lastname  where {
+
+                ?url_id <urn:ex:publishedBy>/<urn:ex:source:label> ?author_name .
+                ?url_id <urn:ex:publishedBy>/<urn:ex:source:url> ?author_lastname .
+    
+
+}

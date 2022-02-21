@@ -1,0 +1,806 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="urn:ex:"
+    xmlns:j.1="urn:ex:author:"
+    xmlns:j.2="urn:ex:source:">
+  <rdf:Description rdf:about="urn:ex:article:773">
+    <j.0:domain>Data &amp; Stockage </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Qualité des données : qui sont les principaux fournisseurs ?</j.0:title>
+    <j.0:id>773</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:689:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>689</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:771:author">
+    <j.1:lastname></j.1:lastname>
+    <j.1:name>Brandvoice</j.1:name>
+    <j.1:id>771</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:672:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>672</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:797">
+    <j.0:domain>Machine Learning </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Machine learning : IBM pousse ModelMesh de Watson à Kubeflow</j.0:title>
+    <j.0:id>797</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:349">
+    <j.0:domain>brandvoice</j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Suivre une formation sur Power BI pour obtenir sa certification DA-100</j.0:title>
+    <j.0:id>349</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:439:author">
+    <j.1:lastname>Bohic</j.1:lastname>
+    <j.1:name>Clément</j.1:name>
+    <j.1:id>439</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:218:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>218</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:685:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>685</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:349:author">
+    <j.1:lastname>Voice</j.1:lastname>
+    <j.1:name>Brand</j.1:name>
+    <j.1:id>349</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:364:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>364</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:364:author">
+    <j.1:lastname>Bohic</j.1:lastname>
+    <j.1:name>Clément</j.1:name>
+    <j.1:id>364</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:936:author">
+    <j.1:lastname>Bohic</j.1:lastname>
+    <j.1:name>Clément</j.1:name>
+    <j.1:id>936</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:396:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>396</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:802">
+    <j.0:domain>brandvoice</j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Liebherr-Aerospace Toulouse réalise sa migration vers Project Server 2016 avec Campana &amp; Schott</j.0:title>
+    <j.0:id>802</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:272">
+    <j.0:domain>Data &amp; Stockage </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Journalisation : les recommandations de la Cnil</j.0:title>
+    <j.0:id>272</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:602:author">
+    <j.1:lastname>Rédaction</j.1:lastname>
+    <j.1:name>La</j.1:name>
+    <j.1:id>602</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:232">
+    <j.0:domain>Data &amp; Stockage </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Hyperconvergence logicielle : qui sont les principaux fournisseurs ?</j.0:title>
+    <j.0:id>232</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:672:author">
+    <j.1:lastname>Bohic</j.1:lastname>
+    <j.1:name>Clément</j.1:name>
+    <j.1:id>672</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:506:author">
+    <j.1:lastname>Bohic</j.1:lastname>
+    <j.1:name>Clément</j.1:name>
+    <j.1:id>506</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:421">
+    <j.0:domain>Stockage </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Big data : qui sont les principaux fournisseurs de stockage ?</j.0:title>
+    <j.0:id>421</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:732">
+    <j.0:domain>RGPD </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>RGPD : WhatsApp condamné en Irelande à 225 millions €</j.0:title>
+    <j.0:id>732</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:802:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>802</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:367:author">
+    <j.1:lastname>Bohic</j.1:lastname>
+    <j.1:name>Clément</j.1:name>
+    <j.1:id>367</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:396:author">
+    <j.1:lastname>Beky</j.1:lastname>
+    <j.1:name>Ariane</j.1:name>
+    <j.1:id>396</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:218:author">
+    <j.1:lastname>Bohic</j.1:lastname>
+    <j.1:name>Clément</j.1:name>
+    <j.1:id>218</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:827:author">
+    <j.1:lastname>Bohic</j.1:lastname>
+    <j.1:name>Clément</j.1:name>
+    <j.1:id>827</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:439:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>439</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:823:author">
+    <j.1:lastname>Bohic</j.1:lastname>
+    <j.1:name>Clément</j.1:name>
+    <j.1:id>823</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:352">
+    <j.0:domain>Big Data </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Protection des données : les entreprises mises à l’épreuve</j.0:title>
+    <j.0:id>352</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:962">
+    <j.0:domain>brandvoice</j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>APEX de Dell Technologies : l’infrastructure « as-a-service » qui apporte simplicité, agilité et contrôle à l’informatique</j.0:title>
+    <j.0:id>962</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:376">
+    <j.0:domain>Data &amp; Stockage </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Assured Workloads : Google Cloud trouve un autre angle souverain en Europe</j.0:title>
+    <j.0:id>376</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:364">
+    <j.0:domain>Data &amp; Stockage </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Red Hat ouvre un « guichet DSML » sur OpenShift</j.0:title>
+    <j.0:id>364</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:399:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>399</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:506:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>506</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:399">
+    <j.0:domain>Business Intelligence </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>BI : Google joue l’ouverture avec Looker</j.0:title>
+    <j.0:id>399</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:984:author">
+    <j.1:lastname>Beky</j.1:lastname>
+    <j.1:name>Ariane</j.1:name>
+    <j.1:id>984</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:262:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>262</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:367:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>367</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:836:author">
+    <j.1:lastname></j.1:lastname>
+    <j.1:name>Brandvoice</j.1:name>
+    <j.1:id>836</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:827:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>827</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:921:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>921</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:848">
+    <j.0:domain>Data &amp; Stockage </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Cybersécurité : Quest Software racheté 5,4 milliards $ par Clearlake</j.0:title>
+    <j.0:id>848</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:836">
+    <j.0:domain>brandvoice</j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Comment valoriser la dark data pour mieux piloter son business ?</j.0:title>
+    <j.0:id>836</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:921">
+    <j.0:domain>Machine Learning </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>OpenAI ouvre les vannes de GPT-3</j.0:title>
+    <j.0:id>921</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:985">
+    <j.0:domain>brandvoice</j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Modern Data Stack : comment une architecture data moderne améliore les capacités d’analyse ?</j.0:title>
+    <j.0:id>985</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:832:author">
+    <j.1:lastname>Beky</j.1:lastname>
+    <j.1:name>Ariane</j.1:name>
+    <j.1:id>832</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:971:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>971</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:771">
+    <j.0:domain>brandvoice</j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>L’agilité, un pré-requis pour le management des données de demain</j.0:title>
+    <j.0:id>771</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:971:author">
+    <j.1:lastname>Beky</j.1:lastname>
+    <j.1:name>Ariane</j.1:name>
+    <j.1:id>971</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:685">
+    <j.0:domain>Data &amp; Stockage </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>IA : le joker des équipes perdues dans le Big data</j.0:title>
+    <j.0:id>685</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:399:author">
+    <j.1:lastname>Bohic</j.1:lastname>
+    <j.1:name>Clément</j.1:name>
+    <j.1:id>399</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:754">
+    <j.0:domain>brandvoice</j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Comment répondre aux problématiques environnementales de la data ?</j.0:title>
+    <j.0:id>754</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:984:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>984</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:439">
+    <j.0:domain>Data &amp; Stockage </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>GAIA-X accélère sur les livrables</j.0:title>
+    <j.0:id>439</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:848:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>848</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:836:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>836</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:508">
+    <j.0:domain>brandvoice</j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Liebherr-Aerospace Toulouse réalise sa migration vers Project Server 2016 avec Campana &amp; Schott</j.0:title>
+    <j.0:id>508</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:349:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>349</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:835">
+    <j.0:domain>brandvoice</j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Comment accélérer sa stratégie de protection des données ?</j.0:title>
+    <j.0:id>835</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:797:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>797</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:797:author">
+    <j.1:lastname>Bohic</j.1:lastname>
+    <j.1:name>Clément</j.1:name>
+    <j.1:id>797</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:781:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>781</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:823">
+    <j.0:domain>Bases de données </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Bases de données cloud : qui sont les principaux fournisseurs ?</j.0:title>
+    <j.0:id>823</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:781:author">
+    <j.1:lastname>Bohic</j.1:lastname>
+    <j.1:name>Clément</j.1:name>
+    <j.1:id>781</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:232:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>232</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:232:author">
+    <j.1:lastname>Bohic</j.1:lastname>
+    <j.1:name>Clément</j.1:name>
+    <j.1:id>232</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:984">
+    <j.0:domain>Machine Learning </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Intelligence artificielle : les entreprises tech investissent massivement</j.0:title>
+    <j.0:id>984</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:673">
+    <j.0:domain>Business Intelligence </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Intelligence artificielle : 5 cas d’utilisation pour 2022</j.0:title>
+    <j.0:id>673</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:475:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>475</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:985:author">
+    <j.1:lastname></j.1:lastname>
+    <j.1:name>Brandvoice</j.1:name>
+    <j.1:id>985</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:848:author">
+    <j.1:lastname>Beky</j.1:lastname>
+    <j.1:name>Ariane</j.1:name>
+    <j.1:id>848</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:777">
+    <j.0:domain>Machine Learning </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>La France lance une plateforme de calcul quantique hybride</j.0:title>
+    <j.0:id>777</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:749:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>749</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:835:author">
+    <j.1:lastname></j.1:lastname>
+    <j.1:name>Brandvoice</j.1:name>
+    <j.1:id>835</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:749">
+    <j.0:domain>Data &amp; Stockage </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Qualité des données : que surveiller chez les offreurs ?</j.0:title>
+    <j.0:id>749</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:546:author">
+    <j.1:lastname></j.1:lastname>
+    <j.1:name>Brandvoice</j.1:name>
+    <j.1:id>546</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:754:author">
+    <j.1:lastname></j.1:lastname>
+    <j.1:name>Brandvoice</j.1:name>
+    <j.1:id>754</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:272:author">
+    <j.1:lastname>Bohic</j.1:lastname>
+    <j.1:name>Clément</j.1:name>
+    <j.1:id>272</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:272:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>272</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:921:author">
+    <j.1:lastname>Bohic</j.1:lastname>
+    <j.1:name>Clément</j.1:name>
+    <j.1:id>921</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:850:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>850</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:850:author">
+    <j.1:lastname>Bohic</j.1:lastname>
+    <j.1:name>Clément</j.1:name>
+    <j.1:id>850</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:832:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>832</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:561:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>561</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:781">
+    <j.0:domain>Bases de données </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Oracle Exadata : qu’attendre de la génération X9M ?</j.0:title>
+    <j.0:id>781</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:672">
+    <j.0:domain>Machine Learning </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>IA cloud : Oracle structure une offre de services autonomes</j.0:title>
+    <j.0:id>672</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:561:author">
+    <j.1:lastname></j.1:lastname>
+    <j.1:name>Brandvoice</j.1:name>
+    <j.1:id>561</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:773:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>773</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:773:author">
+    <j.1:lastname>Bohic</j.1:lastname>
+    <j.1:name>Clément</j.1:name>
+    <j.1:id>773</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:971">
+    <j.0:domain>Data &amp; Stockage </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>HPE GreenLake s’affirme dans la protection continue des données</j.0:title>
+    <j.0:id>971</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:850">
+    <j.0:domain>Deep Learning </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Supercalculateurs : MLPerf s’attaque à l’entraînement parallèle</j.0:title>
+    <j.0:id>850</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:962:author">
+    <j.1:lastname></j.1:lastname>
+    <j.1:name>Dell</j.1:name>
+    <j.1:id>962</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:376:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>376</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:344">
+    <j.0:domain>Data &amp; Stockage </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Sauvegarde et restauration : qui sont les principaux fournisseurs ?</j.0:title>
+    <j.0:id>344</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:546">
+    <j.0:domain>brandvoice</j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Schrems II : ce que les recommandations du CEPD et les CCT modernisées signifient pour vous ?</j.0:title>
+    <j.0:id>546</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:641:author">
+    <j.1:lastname>Beky</j.1:lastname>
+    <j.1:name>Ariane</j.1:name>
+    <j.1:id>641</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:475:author">
+    <j.1:lastname>Beky</j.1:lastname>
+    <j.1:name>Ariane</j.1:name>
+    <j.1:id>475</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:732:author">
+    <j.1:lastname>Rédaction</j.1:lastname>
+    <j.1:name>La</j.1:name>
+    <j.1:id>732</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:506">
+    <j.0:domain>Bases de données </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Bases de données cloud : comment jauger le marché ?</j.0:title>
+    <j.0:id>506</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:262:author">
+    <j.1:lastname>Bohic</j.1:lastname>
+    <j.1:name>Clément</j.1:name>
+    <j.1:id>262</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:508:author">
+    <j.1:lastname></j.1:lastname>
+    <j.1:name>Microsoft</j.1:name>
+    <j.1:id>508</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:835:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>835</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:372:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>372</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:777:author">
+    <j.1:lastname>Beky</j.1:lastname>
+    <j.1:name>Ariane</j.1:name>
+    <j.1:id>777</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:777:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>777</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:170">
+    <j.0:domain>Data &amp; Stockage </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Intelligence artificielle : 9 bonnes pratiques pour industrialiser les projets</j.0:title>
+    <j.0:id>170</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:732:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>732</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:372">
+    <j.0:domain>Big Data </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Data Lake : la tentation du Cloud</j.0:title>
+    <j.0:id>372</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:372:author">
+    <j.1:lastname>Clapaud</j.1:lastname>
+    <j.1:name>Alain</j.1:name>
+    <j.1:id>372</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:823:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>823</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:396">
+    <j.0:domain>Business Intelligence </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Data, IA et performance : où en sont les acteurs publics ?</j.0:title>
+    <j.0:id>396</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:367">
+    <j.0:domain>Data &amp; Stockage </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Hyperconvergence logicielle : la question du rapport qualité-prix</j.0:title>
+    <j.0:id>367</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:421:author">
+    <j.1:lastname>Bohic</j.1:lastname>
+    <j.1:name>Clément</j.1:name>
+    <j.1:id>421</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:962:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>962</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:673:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>673</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:352:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>352</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:802:author">
+    <j.1:lastname></j.1:lastname>
+    <j.1:name>Microsoft</j.1:name>
+    <j.1:id>802</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:218">
+    <j.0:domain>Business Intelligence </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>BI : AWS rejoint Microsoft sur les requêtes en langage naturel</j.0:title>
+    <j.0:id>218</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:344:author">
+    <j.1:lastname>Bohic</j.1:lastname>
+    <j.1:name>Clément</j.1:name>
+    <j.1:id>344</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:641:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>641</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:602">
+    <j.0:domain>Bases de données </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Capella : la nouvelle ombrelle DBaaS de Couchbase</j.0:title>
+    <j.0:id>602</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:376:author">
+    <j.1:lastname>Bohic</j.1:lastname>
+    <j.1:name>Clément</j.1:name>
+    <j.1:id>376</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:508:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>508</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:170:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>170</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:754:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>754</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:602:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>602</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:936:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>936</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:262">
+    <j.0:domain>Deep Learning </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>BugLab : une autre approche de l’IA pour l’analyse du code source</j.0:title>
+    <j.0:id>262</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:560:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>560</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:832">
+    <j.0:domain>Data &amp; Stockage </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Data management : Rubrik nomme John Murphy RSSI « Global Field »</j.0:title>
+    <j.0:id>832</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:560:author">
+    <j.1:lastname>Bohic</j.1:lastname>
+    <j.1:name>Clément</j.1:name>
+    <j.1:id>560</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:561">
+    <j.0:domain>brandvoice</j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Science des données, Intelligence Artificielle, ingénierie du Big Data : quels sont les débouchés ?</j.0:title>
+    <j.0:id>561</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:985:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>985</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:352:author">
+    <j.1:lastname>Beky</j.1:lastname>
+    <j.1:name>Ariane</j.1:name>
+    <j.1:id>352</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:641">
+    <j.0:domain>Machine Learning </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Les 12 tendances Tech à suivre en 2022, selon Gartner</j.0:title>
+    <j.0:id>641</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:421:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>421</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:689:author">
+    <j.1:lastname>Clapaud</j.1:lastname>
+    <j.1:name>Alain</j.1:name>
+    <j.1:id>689</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:771:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>771</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:689">
+    <j.0:domain>Big Data </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Plateformes DSML : les Data Science à l’échelle industrielle</j.0:title>
+    <j.0:id>689</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:749:author">
+    <j.1:lastname>Bohic</j.1:lastname>
+    <j.1:name>Clément</j.1:name>
+    <j.1:id>749</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:673:author">
+    <j.1:lastname>Beky</j.1:lastname>
+    <j.1:name>Ariane</j.1:name>
+    <j.1:id>673</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:170:author">
+    <j.1:lastname>Biseul</j.1:lastname>
+    <j.1:name>Xavier</j.1:name>
+    <j.1:id>170</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:344:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>344</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:source:546:source">
+    <j.2:url> https://www.silicon.fr/actualites/data-storage/page/5</j.2:url>
+    <j.2:label>Silicon</j.2:label>
+    <j.2:id>546</j.2:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:685:author">
+    <j.1:lastname>Beky</j.1:lastname>
+    <j.1:name>Ariane</j.1:name>
+    <j.1:id>685</j.1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:827">
+    <j.0:domain>Stockage </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Big data : comment évolue le marché du stockage ?</j.0:title>
+    <j.0:id>827</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:936">
+    <j.0:domain>Stockage </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Vers des disques durs NVMe : un prototype et des questions</j.0:title>
+    <j.0:id>936</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:560">
+    <j.0:domain>Stockage </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>OptiNAND : une autre approche des disques hybrides</j.0:title>
+    <j.0:id>560</j.0:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ex:article:475">
+    <j.0:domain>Big Data </j.0:domain>
+    <j.0:topic>Data</j.0:topic>
+    <j.0:title>Gestion de données : gare à l’angle mort du Big Data</j.0:title>
+    <j.0:id>475</j.0:id>
+  </rdf:Description>
+</rdf:RDF>
